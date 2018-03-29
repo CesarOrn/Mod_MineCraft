@@ -1,0 +1,15 @@
+{
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2018-03-28 18:41:01 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "beaches": "2018-03-28 18:41:00 -0600",
+      "plains": "2018-03-28 18:40:13 -0600"
+    },
+    "done": false
+  }
+}

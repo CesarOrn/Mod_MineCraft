@@ -1,11 +1,11 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
+  "modid": "tut",
+  "name": "mytut",
   "description": "Example placeholder mod.",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "",
+  "url": "https://sites.google.com/site/cesarornelasprojects/",
   "updateUrl": "",
   "authorList": ["ExampleDude"],
   "credits": "The Forge and FML guys, for making this example",
